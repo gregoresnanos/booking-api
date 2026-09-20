@@ -1,6 +1,6 @@
 BOOKING API
 
-This project is an booking application. I will try to solve the double booking problem and make it safe for this kind of race condition.
+This project is a booking application. I will try to solve the double booking problem and make it safe for this kind of race condition.
 
 The stack
 PHP 8.3, Laravel 11, MySQL 8
